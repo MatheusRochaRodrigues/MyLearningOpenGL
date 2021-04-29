@@ -1,0 +1,2 @@
+C:\Users\Mathe\source\repos\GameEngineGEAN\x64\Debug\GameEngineGEAN.exe
+C:\Users\Mathe\source\repos\GameEngineGEAN\x64\Debug\GameEngineGEAN.pdb
